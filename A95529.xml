@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christmas in &amp; out or, our Lord &amp; Saviour Christs birth-day.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95529</idno>
+            <idno type="STC">Wing T440</idno>
+            <idno type="STC">Thomason E1244_2</idno>
+            <idno type="STC">ESTC R209189</idno>
+            <idno type="EEBO-CITATION">99868079</idno>
+            <idno type="PROQUEST">99868079</idno>
+            <idno type="VID">169487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169487)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 170:E1244[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christmas in &amp; out or, our Lord &amp; Saviour Christs birth-day.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.H. for Francis Coles, and are to be sold at his shop in the Old-Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653. [i.e. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb. 6: 1652"; the '3' in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Dedication on title page, in verse: To the Reader. Good Joshua once ordain'd a Holy-Day, ... Remember him that doth remember thee. Thine John Taylor.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas --  England --  Early works to 1800.</term>
+               <term>Holidays --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169487:1" rendition="simple:additions"/>
+            <p>CHRISTMAS IN &amp; OVT: OR, OUR. <hi>LORD &amp; SAVIOUR</hi> Chriſts Birth-Day.</p>
+            <floatingText xml:lang="eng" type="to_the_reader">
+               <body>
+                  <head>To the Reader.</head>
+                  <lg>
+                     <l>Good <hi>Joſhua</hi> once ordain'd a Holy-Day,</l>
+                     <l>Becauſe the Sun ſtood ſtill in <hi>Gibeon,</hi>
+                     </l>
+                     <l>And at his Prayers that the Moon did ſtay</l>
+                     <l>His courſe, above the Vaile of <hi>Aialon:</hi>
+                     </l>
+                     <l>And ſhal not Chriſtians ſtil give thanks &amp; praiſe</l>
+                     <l>On th' yearly day our bleſt redeemer came?</l>
+                     <l>Shall Powder Treaſons and thankſgiving dayes</l>
+                     <l>Be ſtill obſerved in Records of Fame?</l>
+                     <l>Then let not Chriſts Birth-Day forgotten bee,</l>
+                     <l>Remember him that doth remember thee.</l>
+                  </lg>
+                  <closer>
+                     <signed>Thine <hi>JOHN TAYLOR.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. H.</hi> for <hi>Francis Coles,</hi> and are to be ſold at his ſhop in the <hi>Old-Bayly,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:169487:2"/>
+            <head>Christmas, or Christs Day, or Christs Birth-Day.</head>
+            <p>
+               <seg rend="decorInit">I</seg>Nimitation of my great and glorious Lord and Maſter (Jeſus Chriſt) in love to them that hate me, I am come to them that love me not. My Almighty Maſter was, is, and ever will be GOD, from whom no<g ref="char:EOLhyphen"/>thing was, is, or ever ſhall be hid; and hed d not onely know, but commiſerate the miſeries of his enemies (moſt miſerable mankinde) to whom he had often ſent his Partriarks, Prophets, and other Meſſengers of Peace and proſperity, and how they were, and ſhould be entertained in the world; God knew before, and all Hi<g ref="char:EOLhyphen"/>ſtories of the ſecred Volumes, or other Books of Ecleſia<g ref="char:EOLhyphen"/>ſticall Writings will teſtifie.</p>
+            <p>And as my good Maſter did know how courſely he ſhould be dealt withall (by misbelieving hard hearted Jewes) yet he came on this Day, from whom I have my name of CHRISTMAS, or Chriſts Day: Even ſo, I come this 25. of December, though I know I ſhall be hard<g ref="char:EOLhyphen"/>ly welcome to a great many; yet I am ſure that as many as love my Maſter, will rejoyce to ſee this Day: But as my ſirname of Mas, there is much exceptions taken, by ſome that underſtand not what Mas, or Chriſtmas mea<g ref="char:EOLhyphen"/>neth.</p>
+            <p>I have heard Learned men ſay, that the word Mas doth
+<pb n="3" facs="tcp:169487:2"/>
+ſignifie ſome heavy or ponderous thing, as <hi>Maſſa</hi> is a Wedge of Gold or Iron, or any thing that is preſſed or made into a lump of any thick matter of Dough, or Curds, Cheeſe, or ſuch like; but my ſirname of Mas is miſtaken, for my name is <hi>Christi miſſi,</hi> or Chriſt ſent, as being ſent from God to us this Day. Chriſt had his Miſſion, he came not before he was ſent (as himſelfe ſaid to his Diſciples.) <q>He that believes in you believes in me, and he that be<g ref="char:EOLhyphen"/>lieves in me, believes in him that ſent me.</q> Here it is plaine that my Maſter was ſent, and as he was ſent, ſo he ſent his Apoſtles, and they gave miſſion to the ſucceeding Miniſtery, and they that were ſent went, and none were ſo bold to intrude into the Miniſtery without his Miſſion or Commiſſion of being ſent: and ſo much concerning my name of Chriſtmas.</p>
+            <p>But I am more properly called Chriſts Day, for he himſelfe did honour me with that Name, and though all dayes are his (for as he is God, he is the Antient of Daies) for whem the Jewes did ſpeak of ABRAHAM, Joh. 8, 56, My Maſter ſayd, <q>Before ABRAHAM was, I am for A<g ref="char:EOLhyphen"/>BRAMAM ſaw my Day and rejoyced in it, and was glad.</q> He appointed me to be the peculiar Day of his bleſ<g ref="char:EOLhyphen"/>ſed Birth, he was promiſed in Paradice, foretold and foreſeen by the Patriarks and Prophets; proclaimed by Angels, with <q>Glory be to God in the higheſt, peace on Earth, good will towards men, <bibl>Luk. 11. 14</bibl>
+               </q> A Song or Chriſtmas Carroll, of three parts, to God. to Earth, to Men (Glory, Peace, &amp; Good will) a gracious Conſort ſung by celeſtall Spirits, Angels, and a multitude of heavenly Souldiers, they ſung and rejoyced all for our good, and not for their owne: Then let men ſing Pſalmes and An<g ref="char:EOLhyphen"/>thems in Churches, and Hymns and Carols in our Houſes, let us give glory to God on high, and he will give us peace below.</p>
+            <pb n="4" facs="tcp:169487:3"/>
+            <p>Faith is very clear ſighted, for ABRAHAM was more than two thouſand yeares before Chriſt came in the fleſh, yet (with the Eye of Eaith) he ſaw Me, he ſaw my Maſter and my Maſters day, and rejoyced in it; and his rejoycing was approved of, but the Jews which rejoyced not were reprehended. The holy Patriark rejoyced, and Chriſt al<g ref="char:EOLhyphen"/>lowed it, and he did diſlike the unbelieving Jews that re<g ref="char:EOLhyphen"/>juyced not. The Jewes did not (and do not) obſerve it, but all Chriſtians did, doe, and will celebrate it and ac<g ref="char:EOLhyphen"/>knowledge it, for no Chriſtian will ſtrike, blot, or ſcrape Chriſts Day out of the Kallender.</p>
+            <p>The Prophet Iſaiah did write of Chriſts comming 600 years before he came, in theſe words, <q>Behold a Virgin ſhall conceive and beare a Son, and he ſhall call his name IMMANUELL, or EMANUELL, <bibl>Eſay 8. v. 14.</bibl>
+               </q>
+            </p>
+            <p>And again in the 9. Chapter v. 6. <q>For unto us a Child is borne, and unto us a Son is given:</q> He is born, and un<g ref="char:EOLhyphen"/>to us a Son is given born of the bleſſed Virgin his Mother, and given by Almighty God his Father: a Child <hi>Natus,</hi> a gift <hi>Datus,</hi> Is borne, Is given: The Prophet ſaies not, was borne and given, but is, which is ever, in the preſent Tenſe, Borne ſtill in the heart, ſoule, and memory of eve<g ref="char:EOLhyphen"/>ry Chriſtian. He that Was, and Is, and Is to come, Was borne a Child and is born a Child unto us, Was given a Son, and is given a Son unto us, this Day of my Maſters bleſſed Nativity.</p>
+            <p>In the ſecond of S. Luke, v. 10 11. <q>Then the Angel ſaid unto them, be not afraid, for behold I bring you glad tidings of great joy which ſhall be to all the people,</q> a Saviour is born on this Day, Chriſts Day, Chriſts Birth<g ref="char:EOLhyphen"/>day, my day, Chriſtmas day.</p>
+            <p>The Angel appeared to the Shepheards, and told them newes of a Lamb, <q>the Lamb of God that taketh away the ſins of the World:</q> a Lamb that was come to ſave all
+<pb n="5" facs="tcp:169487:3"/>
+the ſheep of Iſrael that were loſt, and loſt everlaſtingly we ſhould have been, had not this bleſſed Lamb come and redeemed us.</p>
+            <p>And as he was a Lamb, ſo likewiſe he was a Shepheard; the true Shepheard the chiefe Shepheard, 1 Pet. 5. 4. the good Shepheard, Joh. 10 11. 14. ſo we read that his Birth and Birth-day was firſt made knowne unto Shepheards. Indeed Shepheards were in odious and contemptible ab<g ref="char:EOLhyphen"/>homination amongſt the Idolatrous Egyptians, Gen. 46. 32. So was and is my Maſter Chriſts Name and Birth<g ref="char:EOLhyphen"/>day to the misbelieving Jewes, miſcreant Turke, and Se<g ref="char:EOLhyphen"/>ctarian, Schiſmaticall, out-ſide ſeeming Chriſtians. This day he that was prophecied of to come, did come, and he that was promiſed is come; an Angell preached at his comming, and Qaires and multitudes of bleſſed Spirits ſung, when our Saviour came, who was, is, and ever will be, not only a Saviour, but ſalvation it ſelfe.</p>
+            <p>He was the Word, and the Word was God, and God was the Word. Here God (the Word) was a Childe, a Babe, an Infant; and here the Word was not able to ſpeak a word, Joh. 14. <q>And the Word was made Fleſh, and dwelt among us, we ſaw the glory thereof, as the glory of the onely begotten Son of the Father, full of Grace and Truth.</q>
+            </p>
+            <p>God ſent his Son this day; note who he was that did ſend, and what it was that he ſent: He ſent firſt to us, that ſhould in all humility have been Petitioners to him; we were enemies to God, to us he had ſent often by his Meſſengers; but this Day he ſent his Son, who was and is himſelfe.</p>
+            <p>Therefore let our deſerved miſery, and Gods undeſer<g ref="char:EOLhyphen"/>ved mercy, love and compaſſion, be thankfully remem<g ref="char:EOLhyphen"/>bred this day, and every day in all places, times, ages, and generations.</p>
+            <pb n="6" facs="tcp:169487:4"/>
+            <p>This Day, <q>Mercy and Truth are met together, and Righteouſneſſe and peace have kiſſed each other, Truth ſhall flouriſh out of the Earth and Righteouſneſſe hath looked downe from heaven, <bibl>Pſal. 85.</bibl>
+               </q> Here was a gra<g ref="char:EOLhyphen"/>cious and happy meeting, here the Lord Chiefe Juſtice of Heaven and Earth, brings juſtice, truth, and righteouſ<g ref="char:EOLhyphen"/>neſſe to judge, and mercy and compaſſion to ſave; here mercy ſhewed her ſelfe a good Miſtris to miſery: This Day he came in clouts that will come in Clouds. <q>And without controverſie great is the Myſtery of godlineſs, which is, God is manifeſted in the Fleſh, juſtified in the Spirit, ſeen of Angells, preached to the Gentiles, belie<g ref="char:EOLhyphen"/>ved on in the world, and received up in Glory, <bibl>1 Tim. 3.</bibl>
+               </q> This was a great M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtery indeed; this was the ſumme and ſubſtance of all Tropes, Types, Figures, Shadowes, Sacrifices, Ceremonies, and the one and onely abſolute fulfilling and accompliſhment of all Propheſies. And in the firſt Chapter to the Hebrewes, verſe 1, 2, 3. the Apo<g ref="char:EOLhyphen"/>ſtle ſaith: <q>And at ſundry times, and in divers places, God ſpake in the old time to our Fathers by the Pro<g ref="char:EOLhyphen"/>phets; in theſe laſt dayes he hath ſpoken to us by his Son.</q>
+            </p>
+            <p>Thus my Maſter (who had no beginning) did begin this day to come and dwell amongſt ſinfull men; the Son of God, the King of Glory came this Day, and this Day was the firſt Day of Chriſtianity to all Chriſtians, and as many as have true faith in Chriſt.</p>
+            <p>This was he to whom God the Father ſaid, Pſal. 2. <q>Thou art my Son, this Day have I begotten thee.</q> And this was he that in the ſame Pſalme was propheſied to ſay, <q>Lord I wil preach thy Law and declare thy Will.</q> The Evangeliſt S. Luke ſaith, Chap. 2. Ver. 12, 13. <q>And this ſhall be a ſign unto you, you ſhall finde the Babe ſwad<g ref="char:EOLhyphen"/>led and laid in a Cratch, ſome read <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in a Manger.</q> Here
+<pb n="7" facs="tcp:169487:4"/>
+is to be noted the great humility of my Maſter that though he were Lord and maker of all, the firſt joyfull ty<g ref="char:EOLhyphen"/>dings of his birth was, not brought to Princes and Po<g ref="char:EOLhyphen"/>tentates, or to Scribes, Phariſees, Lawyers, or Doctors; but he was gratiouſly pleaſed to be firſt declared to poore and humble Shepheards, and not to be borne in any mag<g ref="char:EOLhyphen"/>nificent or ſtately Palace, or in the beſt room in the Inne: No, the Inkeeper had his Chambers filled with Gueſts more welcome and gainfull then Chriſt: There was no room for him in the Inne, therefore the Redeeme of mankind had entertainment in a Stable amongſt Beaſts, ſwadled and laid in a Cratch.</p>
+            <p>Neither would he be borne in any great or glorious City, Jeruſalem had not the honour to be graced with the Birth and firſt preſence of the Son of God; in great Cities there hath ever been more miſery than mercy, and more perſecution than pity; therefore great Jeruſalem was the place of his bitter death and paſſion, and little Bethlehem was honoured with his birth, as it was pro<g ref="char:EOLhyphen"/>phecied many years before, by the Prophet Micah, Chap. 5. in theſe words: <q>And thou Bethlehem Ephrathah are little to be among the thouſands of Judah, yet out of thee ſhall he come forth unto me, that ſhall be the Ru<g ref="char:EOLhyphen"/>ler in Iſrael, whoſe goings forth have been from the be<g ref="char:EOLhyphen"/>ginning, and from everlaſting.</q>
+            </p>
+            <p>
+               <q>And Heb. 2. 16. For he in no wiſe took the Angells, but the ſeed of <hi>Abraham</hi> he took.</q>
+            </p>
+            <p>He took our nature (in the ſeed of <hi>Abraham)</hi> upon him, the nature of Angells he took not: He came this day to help us, who had moſt need of a Saviour; he gave to us not onely a dignity which he gave not to Angells, but alſo he gave himſelfe for us, and ſure we cannot take a ſafer or wiſer courſe, than thankfully with all humility to give our ſelves to him that gave himſelf for us.</p>
+            <pb n="8" facs="tcp:169487:5"/>
+            <p>My Maſter gave power to his Church to celebrate and to ordain and command the annuall celebration of his bleſſed Nativity, I have twelve dayes to attend me, and twelve moneths I do abſent my ſelfe before I come again, the kinde or courſe entertainment, the courteous or chur<g ref="char:EOLhyphen"/>liſh uſage to me, doth not, or cannot increaſe, or diminiſh my Maſters glory; or adde to me, or take from me one minute of time; if men could be as faithfull and charita<g ref="char:EOLhyphen"/>ble as <hi>Abraham</hi> as humble as <hi>David,</hi> as milde and meek as Moſes, as zealous <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Elias,</hi> as patient as <hi>Job,</hi> as ſolici<g ref="char:EOLhyphen"/>tous as <hi>Martha,</hi> and as devout as the bleſſed Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry:</hi> thoſe gracious gifts have been, are, and will be a hap<g ref="char:EOLhyphen"/>pineſſe unſpeakable to ſuch as are by ſupernall grace en<g ref="char:EOLhyphen"/>dowed with them, but the profit of them is onely theirs that have them, for he that is rich in mercy cannot be in<g ref="char:EOLhyphen"/>riched by the piety-vertue, or merits of men, ſo that e<g ref="char:EOLhyphen"/>very Chriſtian may truly ſay,</p>
+            <q>
+               <lg>
+                  <l>Lord, the great love thou beat'ſt to me is thine,</l>
+                  <l>But all the profit of it's only mine.</l>
+               </lg>
+            </q>
+            <p>So likewiſe if poore old Chriſtmas day be made wel<g ref="char:EOLhyphen"/>come, I am not the richer or fatter, if I be ill entertain'd, I will neither be poorer or leaner: Let them make me a feaſting or faſting day, all my joy or grief is not of long continuance, I am but a ſhort day, and not far from the ſhorteſt day, a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> therefore their loves are but ſhort to my Maſter, that will not rejoyce and be glad at the comming of his anniverſary Birth day.</p>
+            <p>The old yeare was before Chriſt, when misbelieving Iewes and Gentiles lived in the darkneſſe of ignorant I<g ref="char:EOLhyphen"/>dolatry under the Law, (or without the Law) but the New yeare came when the Father of Lights ſent my Ma<g ref="char:EOLhyphen"/>ſter (the Light of the world) who by the glorious light of his Goſpell expelled and diſperſed the black clouds and miſts of Egyptian blindneſſe, and devilliſh-Idolatry.
+<pb n="9" facs="tcp:169487:5"/>
+Therefore with the old year let is ſhake off our old faults, (the deeds of darkneſs) and with the new yeare let us be renewed in our minds, and follow the true light, and a<g ref="char:EOLhyphen"/>mend our maners, &amp; let our hearts be fill'd with praiſes &amp; thankſgivings, before our bellies be overfill'd with meat.</p>
+            <p>There were lately ſome over-curious, hot zealous Bre<g ref="char:EOLhyphen"/>thren, who with a ſuperbian predominance did doe what they could to keep Chriſtmas day out of England, they did in divers places Preach Me for dead in Funerall Sermons, and labour'd tooth and nail to bury me alive in the grave of oblivion; they were of opinions, that from the 24. of December at night, till the 7. of January following, that Plumb-Pottage was meer Popery, that a Coller of Brawn was an obhomination, that Roaſt Beef was Antichriſtian, that Mince Pies were Reliques of the Whore of Babylon, and a Gooſe, a Turkey, or a Capon, were marks of the Beaſt.</p>
+            <p>In deteſtation of which ſuperſtitious diet, they aſſum'd to themſelvs ſpirituall and temporall juriſdiction, power, and authority to ſearch and plunder Pottage-pots, to ran<g ref="char:EOLhyphen"/>ſack and rifle Ovens, and to ſtrip ſpits ſtark naked, and tri<g ref="char:EOLhyphen"/>umphantly carry the pillage to be diſpoſed of as they plea<g ref="char:EOLhyphen"/>ſed, for the profit and edification of the righteous, and chaſtiſement of the wicked.</p>
+            <p>As there are many ſundry Nations, ſo are there as ma<g ref="char:EOLhyphen"/>ny inclinations: the Ruſſian, Polonian, German, Bel<g ref="char:EOLhyphen"/>gian, are excellent in the Art of Drinking, the Spaniard will Wench it, the Italian is revengefull, the French man is for faſhions, the Iriſh man Uſquebagh makes him light heel'd, the Welſh mans Cowſs-boby works (by infuſion) to his fingers ends, and tranſlates them into the nature of lime-twigs, and it is ſaid, that a Scot will prove falſe to his Father, and diſſemble with his Brother; but for an En<g ref="char:EOLhyphen"/>gliſh man he is ſo cleare from any of theſe Vices, that he is perfectly exquiſite and excellently indued with all thoſe noble aboveſaid exerciſes.</p>
+            <pb n="10" facs="tcp:169487:6"/>
+            <p>I am old and bold to tell the noſe wiſe Brethren of theſe critick daies, that my great Maſter is King of Kings, &amp; Lord of Lords, who is the ancient of daies, who never had begin<g ref="char:EOLhyphen"/>ning, and never ſhall have end. And on this day, which is kept in a thankfull remembrance of his bleſſed incarna<g ref="char:EOLhyphen"/>tion, 1652 years ſince, I [Chriſtmas] have not failed to make my aniverſary &amp; yearly progreſs into Chriſtendom.</p>
+            <p>When my Maſter Chriſt was graciouſly pleaſed to ex<g ref="char:EOLhyphen"/>change his unexpreſſible grory for mans unſupportable miſery, when (in his mercy) he put off the Majeſty of his God head, and took upon him our miſerable Manhood, lea<g ref="char:EOLhyphen"/>ving his glorious Throne for a Maunger, when he laid by his immortall honour, and cloathed himſelfe with our ſhame, to free all true believers from eternall damnation: Then (on his daies birth) my day began. Then on that day, and at that time, as the Shepheards were in the field, they were ſaluted with an Angel, and a multitude of the heavenly Hoſt with a moſt celeſtiall Carroll.</p>
+            <q>
+               <lg>
+                  <l>
+                     <bibl>Luk. 2.</bibl> All glory be to God on the High'ſt,</l>
+                  <l>And on the Earth be Peace,</l>
+                  <l>Good will towards men, 'tis the will of Chriſt,</l>
+                  <l>Our joyes ſhould never ceaſe.</l>
+               </lg>
+            </q>
+            <p>Thus was my good Maſter uſher'd into the World, and for his ſake, I with my followers (being 12 daies in num<g ref="char:EOLhyphen"/>ber) honeſt <hi>Stephen</hi> &amp; true <hi>John,</hi> with my <hi>Innocents</hi> Pages, and all the reſt have been welcom'd and joyfully enter<g ref="char:EOLhyphen"/>tained ever ſince, by all ſorts of people that have lov'd or do love and honour the memory of the birth-day of my gracious and glorious Lord and Maſter.</p>
+            <p>But now of late the caſe is quite altred, Chriſt and Chriſtmas are both alike welcome; and if the Saviour of Mankinde ſhould come perſonally here amongſt us againe, he were likely (through ignorance, malice, and madneſſe) to be re-crucified: if Chriſtmas may be ſo bold as to aske
+<pb n="11" facs="tcp:169487:6"/>
+thoſe fiery ſpirited people the ſame queſtion as my Maſter might have asked the Jews; for which of my good works that I have done do you ſtone me?</p>
+            <p>So I may ſay to England, what harme have I ever done unto you? I am ſure I never perſwaded you to be ſo un<g ref="char:EOLhyphen"/>charitable as to cut one anothers throats, and to ſtarve and famiſh the poore as you have done continually) and do ſtill ever ſince you baniſhed me from your territories, and it is to be feared that you will never be quiet, or have a happy Peace amongſt you, till you do give me better wel<g ref="char:EOLhyphen"/>come for my Maſters ſake; he is the Prince of Peace, and his peace you will never have that do unthankfully diſpiſe &amp; neglect to ſolemnize the day of his moſt bleſſed Nativity.</p>
+            <p>It is a lamentable and too long a ſtory to relate in what a pittifull quandary I and my followers have been in any time theſe twelve years, when we came into this Country: I was in good hope that ſo long a miſery would have made them glad to bid a merry Chriſtmas welcome: But wel<g ref="char:EOLhyphen"/>come or not welcome, I am come, and at my comming (a little before day) I heard the Cock crow merrily, which I took for a good Omen, or Preface of a moſt free and joviall accommodation, which rejoyced me much, for I and my men were as hungry as Hawks, and as cold as Snow-ball: the ſable curtains of the night being drawn, I gazed to and fro to make choice of the beſt houſes, and houſe-keepers to take up my quarters amongſt them; but alas, the com<g ref="char:EOLhyphen"/>fort that I found was colder then the weather; indeed I ſaw many ſtately buildings, but very little ſmoak from the Chimnies, for moſt of the owners did carry their Kitchins in Boxes, and the beſt and deareſt part of their Roaſt-meat in Pipes; beſides there was a great complaint that Mr. Tax and Mr. Plunder had plaid a long game at ſweep-ſtake a<g ref="char:EOLhyphen"/>mongſt them, and that they would willingly have provi<g ref="char:EOLhyphen"/>ded good chear for me, but that they are ſo miſerable poor that they were not able to feed themſelves.</p>
+            <pb n="12" facs="tcp:169487:7"/>
+            <p>This was no good news to me and my company; we had not been uſed to ſuch uncomfortable breakfaſts, which made us all ſearch up and down the chief Cities for better chear, but my eſpeciall mind was to try the curteſie of London, where I entred a fair houſe which had been an Aldermans, but it was now poffeſt with a grave Fox-fur'd Mammoniſt, whom I found ſitting over a few cinders to warm his gouty toes, (for no other part of him did need the comfort of a fire,) from head to heel he was fur'd like a Muſcovite, and inſtead of a Bible he had a Bond in his hand, which he poard upon to ſee if it were forfeit or no; he ſeldome looked upward, but as it were riveted his eyes to the earth, as if he had been looking for a Mine: his keys of his treaſure were hanged at his waſte, and his clutches alwayes on them, and he no ſooner eſpied me and my Company, but he cried Thieves, Thieves, and reviled his poor ſtarveling ſervant, ſaying, thou Villain, haſt thou let in baſe Rakehells to rob me, and cut my throat.</p>
+            <p>Then I began to intreat him to be patient, ſaying, Sir, there are none here that intend to hurt you, if you take any harme, it muſt be your ſelfe that muſt do it to your ſelfe, and not we. My name is Chriſtmas theſe gray haired men that are with me, are men of my old acquaintance; they are all poor and true; we are come to dine with you, but if it be not your pleaſure to give us entertainment, it is not our purpoſes to force it.</p>
+            <p>This old muckworme caſt as dogged a look upon me, as if I had brought him a privy Seal to borrow money, and at laſt he opened his mouth and ſaid, thou old faucy intru<g ref="char:EOLhyphen"/>ding fellow, I prithee let me have thy abſence, thou com<g ref="char:EOLhyphen"/>meſt to do nothing but miſchief, to make men waſte and ſpend ſo much to entertain thee in twelve or thirteen days exceſſe of riotous Gluttony and Gurmondizing, that for 12. moneths after they can hardly purchaſe a good meals
+<pb n="13" facs="tcp:169487:7"/>
+meat; beſides thou art attended and waited on by a cut<g ref="char:EOLhyphen"/>ſed crew of Gameſters, Cheaters, Swearers, Roarers, and whim wham Gambolls; me thinkes one of thy age ſhould have left off thy Coltiſh tricks, and prodigall ex<g ref="char:EOLhyphen"/>pences: Doſt thou ſee any one that hath a care to live and thrive in the world, to be ſo mad as to minde thee and thy Bables, we are grown ſomewhat wiſer in twelve yeares, than our Fathers were in twice eight hundred: There dwells my worſhipfull good neighbour (Sir <hi>A<g ref="char:EOLhyphen"/>chitophel Pinchgut,</hi> and M. <hi>Nabal</hi> (an ancient Iuſtice of the <hi>Quorum)</hi> it is neither they or my ſelfe that had ever come to have any eſtates, if we had entertained thee, or re<g ref="char:EOLhyphen"/>lieved Beggers: I tell thee if we and a great many more had been as laviſhly minded as thou wouldſt have us to be, we had then been as poore as thou, or any of the reſt of the vaggabond beggerly Varlets that are thy hangers on, and ſo let them hang ſtill, or ſtarve, all's one to me; there<g ref="char:EOLhyphen"/>fore without any more adoe, avoid my houſe, I have nothing for thee, neither am I in the giving humour at this time.</p>
+            <p>I could have anſwered him with divine Command<g ref="char:EOLhyphen"/>ments and Precepts, with many humane Hiſtories and Examples concerning good houſe-keeping, and charita<g ref="char:EOLhyphen"/>ble Hoſpitality; but every vertue (in this Age of Vice) is between two extremes, (as my Maſter was betwixt two Thieves) as liberallity is in the middle, but prodi<g ref="char:EOLhyphen"/>gality and covetouſneſſe are on each ſide of her, alwayes ready to ſpoil and devour her.</p>
+            <p>All true Chriſtians do know, that what reliefe ſoever is given to the poore, is lent unto my Lord and Maſter Chriſt, and he hath, is, and will be bound to ſee it paid with Heavenly intereſt; but he is a ſurety that few U<g ref="char:EOLhyphen"/>ſurers will accept of.</p>
+            <p>At my departure from this old Father Penny-wiſe, his
+<pb n="14" facs="tcp:169487:8"/>
+Sonne. (M. Pound. fooliſh) deſired his crabbed Sire to bid me ſtay and dine with him, at which the miſerable Cur<g ref="char:EOLhyphen"/>mudgeon was even half mad with anger, calling his Son ſpend-thrift, and prodigall Jack-an-Apes, ſaying, that if he bad me to dinner, that I with my followers, would take the boldneſſe to ſup with him, and lodge in his houſe till Twelftide was paſt, and that I would draw more Gueſts to his houſe then he had a mind to bid welcome, &amp; more Beggers to his gate then he had a mind to relieve.</p>
+            <p>Thus was poor Chriſtmas uſed, which made me and my men look blank upon the matter, and without bidding him farewell, I took a going welcome from him, and wandring into the Countrey up and downe from houſe to houſe, I found little or ſmall comfort in any; ſome would only ſmile upon me, and (becauſe I ſhould not piſſe at their doors) they would give me a cup of ſingle, ſlender, lean, ſmall Beer, or Ale, which had the vertue to cauſe a man to make an Alphabet of faces, for it would have war<g ref="char:EOLhyphen"/>med a mans heart like pangs of death in a froſty morning. And as thinking or remembring former proſperities, doe make adverſities ſeem the more heavy: So I call to minde the vigorous ſpirit of the Buttry, Nappy Nut-browne, Berry-browne, Ale Abelendo, whoſe infuſion and inſpi<g ref="char:EOLhyphen"/>ration was wont to have ſuch Ale<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>borate operation to e<g ref="char:EOLhyphen"/>levate &amp; exhillerate the vitals, to put alementall Raptures and Enthuſiaſms in the moſt capitall Perricranion, in ſuch plenitude that the meaneſt and moſt illiterate Plow jogger could ſpeedily play the Rhetorician, and ſpeak alequently, as if he were mounted up in to the Aletitude. This merry memory (or ſad remembrance) of Ale, cauſed me to ask the reaſon of this alteration, to which queſtion an honeſt Smith made this anſwer.</p>
+            <p>Alas Father Chriſtmas (quoth he) our high and mighty Ale, that would formerly knock down Hercules, and trip
+<pb n="15" facs="tcp:169487:8"/>
+up the heels of a Gyant, is lately ſtrook into a deep Con<g ref="char:EOLhyphen"/>ſumption, the ſtrength of it being quite gone with a blow which it received from Weſtminſter, and there is a Tetter and Ringworme called Exciſe, doth make it look thinner then it would otherwiſe do; before theſe times every Brewer did keep two ſtrong fellows to carry the Mault, and one weake boy to pump the Water; but now they have ſhifted or changed hands unluckily, for the poore boy carries the Mault, and the two ſtrong knaves carry the Water.</p>
+            <p>Indeed (to ſpeake truth) my beſt and freeſt welcome with ſome kind of Countrey Farmers, I will deſcribe one for all the reſt in Devonſhire and Cornwall, where though both the Armies had been with them, and given them ſe<g ref="char:EOLhyphen"/>verall viſits, inſomuch that if the Cavaliers had taken their Horſes, thee other Party made bold with their Oxen; if the one had their Sheep, the other plaid ſweep-ſtake; ſo that (according to the Countrey phraſe) great Crock, and little Chock, all was I go; yet as ſoon as they ſpied me, they ſaluted me with much love and reverend curteſie. The Good-man, with the Dame of the houſe, and all the reſt of the men were exceeding glad to ſee me, and with all Countrey curteſie and ſolemnity, I was had into the Par<g ref="char:EOLhyphen"/>lour, there I was placed at the upper end of the Table and my company about me, we had good chear and free wel<g ref="char:EOLhyphen"/>come, and we were merry without Muſick.</p>
+            <p>A, ha, quoth J, this piece of the world is well mended, our Dinner is better then our Breakfaſt, this was as Chriſt<g ref="char:EOLhyphen"/>mas would have it, here is neither too much coſt, nor too l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ede meat; here is no ſurfeit on the one ſide, or hunger on the other; they are alwaies the beſt Feaſts where the poor are reliev'd, for the rich can help themſelves.</p>
+            <p>After Dinner we aroſe from the Boord, and fate by the fire, where the Harth was imbrodered all over with roa<g ref="char:EOLhyphen"/>ſted
+<pb n="16" facs="tcp:169487:9"/>
+ſted Apples, piping hot, expecting a bole of Ale for a coo<g ref="char:EOLhyphen"/>ler (which preſently was transformed into warm Lambſ<g ref="char:EOLhyphen"/>wooll:) within an houre after we went to Church, where a good old Miniſter ſpoke very Reverendly of my Maſter Chriſt, and alſo he uttered many good ſpeeches concerning Me, exciting and exhorting the people to love and unity one with another, and to extend their charities to the nee<g ref="char:EOLhyphen"/>dy and diſtreſſed.</p>
+            <p>After Prayers we returned home, where we diſcourſed merrily, without either prophaneneſs or obſcenity; ſup<g ref="char:EOLhyphen"/>per being ended, we went to Cards, ſome ſung Carrols, and merry Songs (ſuitable to the times;) then the poor la<g ref="char:EOLhyphen"/>bouring Hinds, and the Maid ſervants, with the Plow-Boyes, went nimbly to dancing, the poore toyling wret<g ref="char:EOLhyphen"/>ches being all glad of my company, becauſe they had little or no ſport at all till I came amongſt them; and therefore they leaped and skipped for joy, ſinging a catch to the Tune of hey,
+<q>
+                  <lg>
+                     <l>Lets dance and ſing and make good Cheare,</l>
+                     <l>For Chriſtmas comes but once a yeare.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>Thus at active Games and Gambols of Hotcockles, ſhooing the Wild Mare, and the like harmleſs ſports, ſome part of the tedious night was ſpent; and early in the mor<g ref="char:EOLhyphen"/>ning we took our leaves of them thankfully, and though we had been thirteen dayes well entertained, yet the poor people were very unwilling to let me goe; ſo I left them quite out of hope to have my company againe for a Twelve-months ſpace, that if I were not baniſhed in my abſence they ſhould have my preſence again the next 25. of December 1653.</p>
+            <closer>Glory be to God in the Higheſt, Peace on Earth, and to Men Good-will.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
